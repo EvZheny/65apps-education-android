@@ -7,4 +7,6 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="cornflower_blue">#6195ed</color>
+    <color name="dull_lavender">#9face2</color>
 </resources>

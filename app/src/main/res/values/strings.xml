@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">education-65apps</string>
+    <string name="default_id">0987654321</string>
+    <string name="default_contact_name">George Russel</string>
+    <string name="default_contact_phone">+44 7911 123456</string>
+    <string name="default_description">Description of contact with
+        name George Russel and phone
+        number +44 7911 123456</string>
+    <string name="phone_colon">phone:\u0020</string>
+    <string name="second_phone_colon">second phone:\u0020</string>
+    <string name="email_colon">email:\u0020</string>
+    <string name="second_email_colon">second email:\u0020</string>
+    <string name="contact_list_title">Список контактов</string>
+    <string name="contact_details_title">Детали контакта</string>
+    <string name="no_contact_id">No contact id</string>
 </resources>
